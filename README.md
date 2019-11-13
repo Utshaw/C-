@@ -10,3 +10,9 @@
 - JIT converts compiled code into machine insttructions
 - Also inclodes things like memory management and thread management
 - All .NET programs are executed by CLR
+## IDE
+- Visual Studio Community
+- Build & compile tools
+
+## Resources
+[Traversy Media](https://youtu.be/GcFJjpMFJvI)
