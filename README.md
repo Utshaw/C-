@@ -1,5 +1,3 @@
-# C-Sharp
-
 # .NET
 - Framework for building windows application (and web apps)
 - Not limited to C#
@@ -13,6 +11,12 @@
 ## IDE
 - Visual Studio Community
 - Build & compile tools
+
+# C-Sharp
+
+## namespace
+- A container for class, variables and functions
+
 
 ## Resources
 [Traversy Media](https://youtu.be/GcFJjpMFJvI)
