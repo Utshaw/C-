@@ -17,6 +17,17 @@
 ## namespace
 - A container for class, variables and functions
 
+## Format specifier
+```
+string name = "Farhan Utshaw";
+int age = 35;
+Console.WriteLine("{0} is {1}", name, age);
+```
+Output:
+```
+Farhan Utshaw is 35
+```
+
 
 ## Resources
 [Traversy Media](https://youtu.be/GcFJjpMFJvI)
